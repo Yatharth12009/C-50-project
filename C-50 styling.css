@@ -1,0 +1,14 @@
+html,a{background-color:black;
+    color: white;
+    font-family:monospace;
+    border: 2px solid rgb(38, 255, 244);
+    font-size: 20px;
+}
+img{
+    border:5px solid mintcream;
+    background-color: yellowgreen;
+}
+.Header_and_link{
+background-color: burlywood;
+color: black;
+}
